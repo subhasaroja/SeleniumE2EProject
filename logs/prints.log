@@ -1,0 +1,6 @@
+13:53:02.825 [TestNG-tests-1] INFO  resources.base - Entering HomePage method
+13:53:38.604 [TestNG-tests-1] INFO  resources.base - Exiting HomePage method
+13:53:39.644 [AsyncHttpClient-1-5] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-5
+13:53:39.644 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+13:53:39.657 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+13:53:39.657 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-7
